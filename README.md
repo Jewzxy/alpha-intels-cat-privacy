@@ -1,4 +1,4 @@
-cat — Privacy Policy
+# cat — Privacy Policy
 
 This repository contains the public Privacy Policy for cat, a Discord community management bot.
 
